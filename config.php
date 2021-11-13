@@ -4,7 +4,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 /** General Configuration */
 
 // Base Site URL`s (e.g., http://example.com/)
-define('BASE_URL', 'http://localhost:7777/akuntan/');
+define('BASE_URL', 'http://localhost:/akuntan/');
 
 // The hostname of your database server
 define('DB_HOSTNAME', 'localhost');
